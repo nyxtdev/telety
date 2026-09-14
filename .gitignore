@@ -1,0 +1,6 @@
+/build/
+/dist/
+/tdlib/build/
+/tdlib/install/
+/tdlib/openssl/
+/.vscode/
